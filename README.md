@@ -13,5 +13,5 @@ Wordpress theme/framework for fast development
 
 ### Contact
 
-Twitter: @JavChz
-Site: JavChz
+* Twitter: [@JavChz](http://twitter.com/javchz)
+* Site: [@JavChz](http://javchz.com)
